@@ -1,0 +1,16 @@
+{
+  "name": "case_converter_extension_eng",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "background.js",
+  "scripts": {
+    "generate:icons": "node scripts/generate-icons.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sharp": "^0.34.3"
+  }
+}
